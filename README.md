@@ -4,15 +4,11 @@
 💼 Full Stack Developer | React Enthusiast | Agile Practitioner  
 📍 Based in Dublin, Ireland | Stamp 1G Visa Holder  
 
----
-
 ## 🚀 About Me
 
 I'm a graduate front-end developer with a strong foundation in full stack development, passionate about building scalable, accessible, and user-friendly web applications. With hands-on experience in React, JavaScript, Node.js, and modern development tools, I’m continuously learning and evolving as a developer.
 
 I’ve worked on both startup and enterprise projects — from digital marketing tools to robust internal platforms — and love collaborating in agile environments to bring ideas to life.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -24,16 +20,12 @@ I’ve worked on both startup and enterprise projects — from digital marketing
 - **Software Engineering Practices:** Data Structures and Algorithm, object-oriented design, algorithm design, problem solving, complexity analysis, Microservices, Micro Frontend Architecture, CI/CD, Agile.
 
 
----
-
 ## 🌱 Current Focus
 
 - Deepening my expertise in React and full stack architecture  
 - Mastering accessibility (ARIA, semantic HTML, WCAG standards)  
 - Building real-world projects and contributing to open source  
 
-
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
